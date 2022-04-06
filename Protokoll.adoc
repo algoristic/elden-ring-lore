@@ -1,7 +1,7 @@
 // Autor und Titel
 Marco Herzig
 
-= ELDEN RING Hintergrundgeschichte
+= ELDEN RING
 
 // (1) Einstellungen
 // (1.1) AsciiDoc
@@ -14,31 +14,31 @@ Marco Herzig
 :src-item: Item:
 :src-dialog: Dialog:
 
-// (2) Fußnoten (jeweils alphabetisch a-z sortiert)
-// (2.1) Medien
-:fn-opening: footnote:[{src-medien} Opening]
-:fn-trailer: footnote:[{src-medien} Trailer]
-// (2.2) Dialoge
-:fn-miriel-about-rennala-1: footnote:[{src-dialog} Miriel, über Rennala (1)]
-:fn-ofnir-about-godrick: footnote:[{src-dialog} Gideon Ofnir über Godrick]
-// (2.3) Items
-:fn-blitzdrachentalisman: footnote:[{src-item} Blitzdrachentalisman]
-:fn-geschwuer-des-todesprinzen: footnote:[{src-item} Geschwür des Todenprinzen]
-
-
-// (3) Schlüsselwörter
-// (3.1) Begriffe
+// (2) Schlüsselwörter
+// (2.1) Begriffe
 :eldenfürst: Eldenfürst
 :eldenring: Eldenring
 :erdenbaum: link:#erdenbaum[Erdenbaum]
 :zertrümmerung: Zertrümmerung
-
-// (3.2) Personen
+// (2.2) Personen
+:gideon-ofnir: Gideon Ofnir
 :godfrey: Godfrey
 :godwyn: Godwyn
 :marika: Marika
+:miriel: link:#miriel[Miriel]
 :radagon: Radagon
 :rennala: Rennala
+
+// (3) Fußnoten (jeweils alphabetisch a-z sortiert)
+// (3.1) Medien
+:fn-opening: footnote:[{src-medien} link:https://youtu.be/dxvR7uzOGww[Opening]]
+:fn-trailer: footnote:[{src-medien} link:https://youtu.be/Fs4NzjUzUHs[Trailer]]
+// (3.2) Dialoge
+:fn-miriel-about-rennala-1: footnote:[{src-dialog} {Miriel}, über {Rennala} (1)]
+:fn-ofnir-about-godrick: footnote:[{src-dialog} {Gideon-Ofnir} über {Godrick}]
+// (3.3) Items
+:fn-blitzdrachentalisman: footnote:[{src-item} Blitzdrachentalisman]
+:fn-geschwuer-des-todesprinzen: footnote:[{src-item} Geschwür des Todenprinzen]
 
 [#chronologie]
 == Chronologie
