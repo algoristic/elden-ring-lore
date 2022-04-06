@@ -3,27 +3,37 @@ Marco Herzig
 
 = ELDEN RING Hintergrundgeschichte
 
-// Einstellungen
+// (1) Einstellungen
+// (1.1) AsciiDoc
 :toc: left
 :toc-title: Inhalte
 :toclevels: 4
 :sectnums:
+// (1.2) Dokumentstrktur
+:src-medien: Medien:
+:src-item: Item:
+:src-dialog: Dialog:
 
-// Fußnoten (jeweils alphabetisch a-z sortiert)
-// // Medien
-:opening: footnote:[Medien: Opening]
-:trailer: footnote:[Medien: Trailer]
-// // Dialoge
-:miriel-about-rennala-1: footnote:[Dialog: Miriel, über Rennala]
-:ofnir-about-godrick: footnote:[Dialog: Gideon Ofnir über Godrick]
-// // Items
-:blitzdrachentalisman: footnote:[Item: Blitzdrachentalisman]
-:geschwuer-des-todesprinzen: footnote:[Item: Geschwür des Todenprinzen]
+// (2) Fußnoten (jeweils alphabetisch a-z sortiert)
+// (2.1) Medien
+:fn-opening: footnote:[{src-medien} Opening]
+:fn-trailer: footnote:[{src-medien} Trailer]
+// (2.2) Dialoge
+:fn-miriel-about-rennala-1: footnote:[{src-dialog} Miriel, über Rennala (1)]
+:fn-ofnir-about-godrick: footnote:[{src-dialog} Gideon Ofnir über Godrick]
+// (2.3) Items
+:fn-blitzdrachentalisman: footnote:[{src-item} Blitzdrachentalisman]
+:fn-geschwuer-des-todesprinzen: footnote:[{src-item} Geschwür des Todenprinzen]
 
 
-// Variable Blöcke, Schlüsselwörter
+// (3) Schlüsselwörter
+// (3.1) Begriffe
+:eldenfürst: Eldenfürst
 :eldenring: Eldenring
 :erdenbaum: link:#erdenbaum[Erdenbaum]
+:zertrümmerung: Zertrümmerung
+
+// (3.2) Personen
 :godfrey: Godfrey
 :godwyn: Godwyn
 :marika: Marika
@@ -32,18 +42,18 @@ Marco Herzig
 
 [#chronologie]
 == Chronologie
-* In der Ära vor dem {erdenbaum} regierten die Drachen.{blitzdrachentalisman}
-* König {godfrey} wurde an Marikas Seite der erste Eldenfürst.{ofnir-about-godrick}
-* {godfrey} wurde vertrieben und {radagon}, der ehemalige Gemahl der carianischen Fürsting {rennala}{miriel-about-rennala-1}, nahm, auf Geheiß {marika}s, seinen Platz als Eldenfürst ein.{miriel-about-rennala-1}
-* Die Rune des Todes, eine der Runen, aus denen der {eldenring} besteht, wurde gestohlen.{trailer}
-* Godwyn der Goldene, auch bekannt als der Todesprinz{geschwuer-des-todesprinzen}, wurde getötet. Er war der erste der Habgötter, der starb.{trailer}{opening}
-* Königin {marika} wurde "an den Rand des Abgrunds getrieben"{trailer} und verschwand.{opening}
-* Der {eldenring} wurde von {marika}s Kindern zerbrochen.{opening}
-* {marika}s Kinder wurden von der Macht (der Splitter des {eldenring}s) verdorben und führten einen großen Krieg, die Zertrümmerung.{trailer}{opening}
+* In der Ära vor dem {Erdenbaum} regierten die Drachen.{fn-blitzdrachentalisman}
+* König {Godfrey} wurde an {Marika}s Seite der erste {Eldenfürst}.{fn-ofnir-about-godrick}
+* {Godfrey} wurde vertrieben und {Radagon}, der ehemalige Gemahl der carianischen Fürsting {Rennala}{fn-miriel-about-rennala-1}, nahm, auf Geheiß {Marika}s, seinen Platz als {Eldenfürst} ein.{fn-miriel-about-rennala-1}
+* Die Rune des Todes, eine der Runen, aus denen der {Eldenring} besteht, wurde gestohlen.{fn-trailer}
+* Godwyn der Goldene, auch bekannt als der Todesprinz{fn-geschwuer-des-todesprinzen}, wurde getötet. Er war der erste der Halbgötter, der starb.{fn-trailer}{fn-opening}
+* Königin {Marika} wurde "an den Rand des Abgrunds getrieben"{fn-trailer} und verschwand.{fn-opening}
+* Der {Eldenring} wurde von {Marika}s Kindern zerbrochen.{fn-opening}
+* {Marika}s Kinder wurden von der Macht (der Splitter des {Eldenring}s) verdorben und führten einen großen Krieg, die {Zertrümmerung}.{fn-trailer}{fn-opening}
 
 Fragen::
-. Was ist der {erdenbaum}? Was ist seine Bedeutung in dieser Geschichte?
-. Wer hat die Rune des Todes gestohlen und {godwyn} getötet? Und warum?
+. Was ist der {Erdenbaum}? Was ist seine Bedeutung in dieser Geschichte?
+. Wer hat die Rune des Todes gestohlen und {Godwyn} getötet? Und warum?
 
 [#story]
 == Story
