@@ -25,7 +25,7 @@ Marco Herzig
 :erdenbaum: link:#erdenbaum[Erdenbaum]
 :zertrümmerung: Zertrümmerung
 // (2.2) Personen
-:gideon-ofnir: Gideon Ofnir
+:gideonofnir: Gideon Ofnir
 :godfrey: Godfrey
 :godrick: Godrick
 :godwyn: Godwyn
@@ -39,8 +39,8 @@ Marco Herzig
 :fn-opening: footnote:[{src-medien} link:{youtube}/{link-opening}[Opening]]
 :fn-trailer: footnote:[{src-medien} link:{youtube}/{link-trailer}[Trailer]]
 // (3.2) Dialoge
-:fn-miriel-about-rennala-1: footnote:[{src-dialog} {Miriel}, über {Rennala} (1)]
-:fn-ofnir-about-godrick: footnote:[{src-dialog} {Gideon-Ofnir} über {Godrick}]
+:fn-miriel-über-rennala-1: footnote:[{src-dialog} {Miriel}, über {Rennala} (1)]
+:fn-ofnir-über-godrick: footnote:[{src-dialog} {GideonOfnir} über {Godrick}]
 // (3.3) Items
 :fn-blitzdrachentalisman: footnote:[{src-item} Blitzdrachentalisman]
 :fn-geschwuer-des-todesprinzen: footnote:[{src-item} Geschwür des Todenprinzen]
@@ -48,8 +48,8 @@ Marco Herzig
 [#chronologie]
 == Chronologie
 * In der Ära vor dem {Erdenbaum} regierten die Drachen.{fn-blitzdrachentalisman}
-* König {Godfrey} wurde an {Marika}s Seite der erste {Eldenfürst}.{fn-ofnir-about-godrick}
-* {Godfrey} wurde vertrieben und {Radagon}, der ehemalige Gemahl der carianischen Fürsting {Rennala}{fn-miriel-about-rennala-1}, nahm, auf Geheiß {Marika}s, seinen Platz als {Eldenfürst} ein.{fn-miriel-about-rennala-1}
+* König {Godfrey} wurde an {Marika}s Seite der erste {Eldenfürst}.{fn-ofnir-über-godrick}
+* {Godfrey} wurde vertrieben und {Radagon}, der ehemalige Gemahl der carianischen Fürsting {Rennala}{fn-miriel-über-rennala-1}, nahm, auf Geheiß {Marika}s, seinen Platz als {Eldenfürst} ein.{fn-miriel-über-rennala-1}
 * Die Rune des Todes, eine der Runen, aus denen der {Eldenring} besteht, wurde gestohlen.{fn-trailer}
 * Godwyn der Goldene, auch bekannt als der Todesprinz{fn-geschwuer-des-todesprinzen}, wurde getötet. Er war der erste der Halbgötter, der starb.{fn-trailer}{fn-opening}
 * Königin {Marika} wurde "an den Rand des Abgrunds getrieben"{fn-trailer} und verschwand.{fn-opening}
