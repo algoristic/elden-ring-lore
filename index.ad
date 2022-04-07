@@ -1,0 +1,48 @@
+:src: C:/dev/projects/misc/elden-ring-lore/src
+:referenzen: {src}/ref
+
+// Autor und Titel
+= ELDEN RING
+
+Marco Herzig
+include::{referenzen}/Inhaltsverzeichnis.ad[]
+
+include::{referenzen}/Sektionen.ad[]
+
+include::{referenzen}/Schluesselwoerter.ad[]
+
+include::{referenzen}/Quellen.ad[]
+
+== Legende
+[horizontal]
+❗:: Schlussfolgerung
+❓:: Frage
+〰:: Hypothese
+
+== Chronologie
+* In der Ära vor dem {Erdenbaum} regierten die Drachen.{fn-blitzdrachentalisman}
+* König {Godfrey} wurde an {Marikas} Seite der erste {Eldenfürst}.{fn-ofnir-über-godrick}
+* {Godfrey} wurde vertrieben und {Radagon}, der ehemalige Gemahl der carianischen Fürsting {Rennala}{fn-miriel-über-rennala-1}, nahm, auf Geheiß {Marikas}, seinen Platz als {Eldenfürst} ein.{fn-miriel-über-rennala-1}
+* Die Rune des Todes, eine der Runen, aus denen der {Eldenring} besteht, wurde gestohlen.{fn-trailer}
+* Godwyn der Goldene, auch bekannt als der Todesprinz{fn-geschwuer-des-todesprinzen}, wurde getötet. Er war der erste der Halbgötter, der starb.{fn-trailer}{fn-opening}
+* Königin {Marika} wurde "an den Rand des Abgrunds getrieben"{fn-trailer} und verschwand.{fn-opening}
+* Der {Eldenring} wurde von {Marikas} Kindern zerbrochen.{fn-opening}
+* {Marikas} Kinder wurden von der Macht (der Splitter des {Eldenring}s) verdorben und führten einen großen Krieg, die {Zertrümmerung}.{fn-trailer}{fn-opening}
+
+=== Zentrale Fragen
+* Was ist der {Erdenbaum}? Was ist seine Bedeutung in dieser Geschichte?
+* Wer hat die Rune des Todes gestohlen und {Godwyn} getötet? Und warum?
+
+[{sec-marika}]
+== Königin Marika
+* Einige von {Marikas} Kindern wurden getötet ("{Godwyn} der Goldene war der erste der fiehl") und andere rissen die Fragmente an sich.{fn-opening}
+* Die Kinder der Göttin {Marika} haben sich des {Eldenrings} nicht als als würdig erwiesen, daher hat Königin Göttin {Marika} ihren Segen auch auf die {Befleckten} ausgeweitet.{fn-fingerleserin-über-runen}
+* "Nach dem Tod gebe ich zurück, was ich einst nahm".{fn-melina-an-der-pilgerkirche}
+** ❓ Die {Befleckten} sind eigentlich Tote, die durch {Marikas} Gnade zurückkommen.{fn-opening} Was zum Geier bedeutet das Zitat also in diesem Zusammenhang?!
+* Das Mausoleum beherbergt einen seelenlosen Halbgott, {Marikas} ungewollten Sohn.{fn-geist-an-der-pilgerkirche}
+
+[{sec-goldene-ordnung}]
+== Die Goldene Ordnung
+* Es verstößt gegen die {GoldeneOrdnung}, dass eine {Befleckte} versucht {Eldenfürst} zu werden.{fn-melina-introsequenz}
+** ❓ {Marika} hat die {Befleckten} doch aus dem Tod zurück ins Leben geholt - wie kann das dann gegen die {GoldeneOrdnung} verstoßen?
+** 〰 Die {GoldeneOrdnung} ist die Ordnung der Dinge, die durch den intakten {Eldenring} gesichert ist - bspw. dass Tote tot bleiben. Diese Ordnung wurde mit der Zerstörung des {Eldenrings} gestört.

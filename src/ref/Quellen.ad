@@ -1,0 +1,21 @@
+:youtube: https://youtu.be
+:link-opening: dxvR7uzOGww
+:link-trailer: Fs4NzjUzUHs
+
+:src-medien: Medien:
+:src-item: Item:
+:src-dialog: Dialog:
+
+// (Externe) Medien
+:fn-opening: footnote:[{src-medien} link:{youtube}/{link-opening}[Opening]]
+:fn-trailer: footnote:[{src-medien} link:{youtube}/{link-trailer}[Trailer]]
+// Dialoge
+:fn-fingerleserin-über-runen: footnote:[{src-dialog} Fingerleserin in der Tafelrundfeste, über große Runen]
+:fn-geist-an-der-pilgerkirche: footnote:[{src-dialog} Geist vor der Pilgerkirche]
+:fn-melina-an-der-pilgerkirche:  footnote:[{src-dialog} {Melina} an der Pilgerkirche, wörtlich nach {Marika}]
+:fn-melina-introsequenz: footnote:[{src-dialog} {Melina}, Introsequenz nach dem ersten Tod]
+:fn-miriel-über-rennala-1: footnote:[{src-dialog} {Miriel}, über {Rennala} (1)]
+:fn-ofnir-über-godrick: footnote:[{src-dialog} {GideonOfnir} über {Godrick}]
+// Items
+:fn-blitzdrachentalisman: footnote:[{src-item} Blitzdrachentalisman]
+:fn-geschwuer-des-todesprinzen: footnote:[{src-item} Geschwür des Todenprinzen]
