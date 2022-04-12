@@ -32,6 +32,8 @@ include::{referenzen}/Quellen.ad[]
 === Zentrale Fragen
 * Was ist der {Erdenbaum}? Was ist seine Bedeutung in dieser Geschichte?
 * Wer hat die Rune des Todes gestohlen und {Godwyn} getötet? Und warum?
+* Was ist die konkrete Verbindung von {Erdenbaum}, {Marika}, {HöheremWillen} und {GoldenerOrdnung}?
+* Was "tun" der {Eldenring}, der {Eldenfürst} und der {Erdenbaum}? Am Ende des Spiels werden wir uns vermutlich entscheiden müssen den {Eldenring} wieder herzustellen - was hat das für Konsequenzen?
 
 [{sec-marika}]
 == Königin Marika
@@ -39,6 +41,11 @@ include::{referenzen}/Quellen.ad[]
 * Die Kinder der Göttin {Marika} haben sich des {Eldenrings} nicht als als würdig erwiesen, daher hat Königin Göttin {Marika} ihren Segen auch auf die {Befleckten} ausgeweitet.{fn-fingerleserin-über-runen}
 * "Nach dem Tod gebe ich zurück, was ich einst nahm".{fn-melina-an-der-pilgerkirche}
 ** ❓ Die {Befleckten} sind eigentlich Tote, die durch {Marikas} Gnade zurückkommen.{fn-opening} Was zum Geier bedeutet das Zitat also in diesem Zusammenhang?!
+* {Marika} ist das Gefäß des {Eldenrings}.{fn-finger-über-marika}
+* {Marika} ist eingekerkert im {Erdenbaum}.{fn-finger-über-marika}
+* Dass {Marika} zugelassen hat, dass der {Eldenring} zerstört wurde, rechtfertigt ihre Strafe.{fn-finger-über-marika}
+* Wir sollen ihr als {Eldenfürst} zur Seite stehen um dem {HöherenWillen} zu dienen.{fn-finger-über-marika}
+** 〰 {Marika} ist nicht der Feind, sondern vielmehr Sklave des {HöherenWillens} und damit der {ZweiFinger}.
 * Das Mausoleum beherbergt einen seelenlosen Halbgott, {Marikas} ungewollten Sohn.{fn-geist-an-der-pilgerkirche}
 
 [{sec-goldene-ordnung}]
@@ -46,3 +53,20 @@ include::{referenzen}/Quellen.ad[]
 * Es verstößt gegen die {GoldeneOrdnung}, dass eine {Befleckte} versucht {Eldenfürst} zu werden.{fn-melina-introsequenz}
 ** ❓ {Marika} hat die {Befleckten} doch aus dem Tod zurück ins Leben geholt - wie kann das dann gegen die {GoldeneOrdnung} verstoßen?
 ** 〰 Die {GoldeneOrdnung} ist die Ordnung der Dinge, die durch den intakten {Eldenring} gesichert ist - bspw. dass Tote tot bleiben. Diese Ordnung wurde mit der Zerstörung des {Eldenrings} gestört.
+
+[{sec-eldenring}]
+== Der Eldenring
+* Der {Eldenring} wurde zerbrochen und die Welt dadurch vom {HöherenWillen} getrennt.
+** ❗ Die Welt wird vom Eldenring mit dem {HöherenWillen} verbdunden, was auch immer das sein mag.
+* Aus den Sternen lässt sich das Schicksal nicht mehr lesen.
+** 〰 Der {HöhereWille} war so mächig in der Welt, dass er sich aus den Sternen interpretieren ließ.
+** 〰 Seit der Zerstörung des {Eldenrings} ist das nicht mehr möglich. _Oder_
+** 〰 Seit {Radahns} Krieg ist das nicht mehr möglich. Dieser hat bei seiner "Eroberung der Sterne" die Bahnen dieser so aus dem Gleichgewicht gebracht, das {Ranni} davon betroffen ist.{fn-sellen-über-radahn}
+* Der {Eldenring} ist aus Runen. Runen sind stets ein kulturelles Zeugnis und nichts "natürliches".
+** 〰 Der {Eldenring} repräsentiert _keine_ natürliche Ordnung, sondern die Herrschaft über die Ordnung der Welt.
+
+[{sec-erdenbaum}]
+== Der Erdenbaum
+* Tote gehen über die Wurzeln des {Erdenbaums} in die Welt der Toten.{fn-geist-vor-todberührte-katakomben}
+* Verwoben mit den Wurzeln des niederen {Erdenbaums} auf sind tatsächlich unzählige Tote.{fn-katakomben-des-gräberwalls}
+* Die {RuneDesTodes} breitete sich über die Wurzeln des großen Baumes im ganzen Zwischenland aus und wächst nun in Form der Todeswurzeln.{fn-todeswurzel}

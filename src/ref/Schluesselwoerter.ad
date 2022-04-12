@@ -2,11 +2,19 @@
 :befleckte: Befleckte
 :befleckten: Befleckten
 :eldenfürst: Eldenfürst
-:eldenring: Eldenring
-:eldenrings: Eldenrings
-:erdenbaum: Erdenbaum
+:eldenring: link:{sec-eldenring}[Eldenring]
+:eldenrings: link:{sec-eldenring}[Eldenrings]
+:erdenbaum: link:{sec-erdenbaum}[Erdenbaum]
+:erdenbaums: link:{sec-erdenbaum}[Erdenbaums]
+:höherewille: Höhere Wille
+:höherenwillen: Höheren Willen
+:höherenwillens: Höheren Willens
+:höheremwillen: Höherem Willen
 :goldeneordnung: link:{sec-goldene-ordnung}[Goldene Ordnung]
+:goldenerordnung: link:{sec-goldene-ordnung}[Goldener Ordnung]
+:runedestodes: Rune des Todes
 :zertrümmerung: Zertrümmerung
+:zweifinger: Zwei Finger
 // Personen
 :gideonofnir: Gideon Ofnir
 :godfrey: Godfrey
@@ -17,4 +25,8 @@
 :melina: Melina
 :miriel: Miriel
 :radagon: Radagon
+:radahn: General Radahn
+:radahns: General Radahns
+:ranni: Ranni
 :rennala: Rennala
+:sellen: Zauberin Sellen
