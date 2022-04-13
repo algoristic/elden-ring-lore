@@ -1,5 +1,6 @@
 :src: C:/dev/projects/misc/elden-ring-lore/src
 :referenzen: {src}/ref
+:document: {src}/doc
 
 // Autor und Titel
 = ELDEN RING
@@ -13,60 +14,11 @@ include::{referenzen}/Schluesselwoerter.ad[]
 
 include::{referenzen}/Quellen.ad[]
 
-== Legende
-[horizontal]
-❗:: Schlussfolgerung
-❓:: Frage
-〰:: Hypothese
+// Dokument
+include::{document}/Legende.ad[]
 
-== Chronologie
-* In der Ära vor dem {Erdenbaum} regierten die Drachen.{fn-blitzdrachentalisman}
-* König {Godfrey} wurde an {Marikas} Seite der erste {Eldenfürst}.{fn-ofnir-über-godrick}
-* {Godfrey} wurde vertrieben und {Radagon}, der ehemalige Gemahl der carianischen Fürsting {Rennala}{fn-miriel-über-rennala-1}, nahm, auf Geheiß {Marikas}, seinen Platz als {Eldenfürst} ein.{fn-miriel-über-rennala-1}
-* Die Rune des Todes, eine der Runen, aus denen der {Eldenring} besteht, wurde gestohlen.{fn-trailer}
-* Godwyn der Goldene, auch bekannt als der Todesprinz{fn-geschwuer-des-todesprinzen}, wurde getötet. Er war der erste der Halbgötter, der starb.{fn-trailer}{fn-opening}
-* Königin {Marika} wurde "an den Rand des Abgrunds getrieben"{fn-trailer} und verschwand.{fn-opening}
-* Der {Eldenring} wurde von {Marikas} Kindern zerbrochen.{fn-opening}
-* {Marikas} Kinder wurden von der Macht (der Splitter des {Eldenring}s) verdorben und führten einen großen Krieg, die {Zertrümmerung}.{fn-trailer}{fn-opening}
+include::{document}/Die-Welt-Von-Elden-Ring.ad[]
 
-=== Zentrale Fragen
-* Was ist der {Erdenbaum}? Was ist seine Bedeutung in dieser Geschichte?
-* Wer hat die Rune des Todes gestohlen und {Godwyn} getötet? Und warum?
-* Was ist die konkrete Verbindung von {Erdenbaum}, {Marika}, {HöheremWillen} und {GoldenerOrdnung}?
-* Was "tun" der {Eldenring}, der {Eldenfürst} und der {Erdenbaum}? Am Ende des Spiels werden wir uns vermutlich entscheiden müssen den {Eldenring} wieder herzustellen - was hat das für Konsequenzen?
+include::{document}/Die-Göttliche-Familie.ad[]
 
-[{sec-marika}]
-== Königin Marika
-* Einige von {Marikas} Kindern wurden getötet ("{Godwyn} der Goldene war der erste der fiehl") und andere rissen die Fragmente an sich.{fn-opening}
-* Die Kinder der Göttin {Marika} haben sich des {Eldenrings} nicht als als würdig erwiesen, daher hat Königin Göttin {Marika} ihren Segen auch auf die {Befleckten} ausgeweitet.{fn-fingerleserin-über-runen}
-* "Nach dem Tod gebe ich zurück, was ich einst nahm".{fn-melina-an-der-pilgerkirche}
-** ❓ Die {Befleckten} sind eigentlich Tote, die durch {Marikas} Gnade zurückkommen.{fn-opening} Was zum Geier bedeutet das Zitat also in diesem Zusammenhang?!
-* {Marika} ist das Gefäß des {Eldenrings}.{fn-finger-über-marika}
-* {Marika} ist eingekerkert im {Erdenbaum}.{fn-finger-über-marika}
-* Dass {Marika} zugelassen hat, dass der {Eldenring} zerstört wurde, rechtfertigt ihre Strafe.{fn-finger-über-marika}
-* Wir sollen ihr als {Eldenfürst} zur Seite stehen um dem {HöherenWillen} zu dienen.{fn-finger-über-marika}
-** 〰 {Marika} ist nicht der Feind, sondern vielmehr Sklave des {HöherenWillens} und damit der {ZweiFinger}.
-* Das Mausoleum beherbergt einen seelenlosen Halbgott, {Marikas} ungewollten Sohn.{fn-geist-an-der-pilgerkirche}
-
-[{sec-goldene-ordnung}]
-== Die Goldene Ordnung
-* Es verstößt gegen die {GoldeneOrdnung}, dass eine {Befleckte} versucht {Eldenfürst} zu werden.{fn-melina-introsequenz}
-** ❓ {Marika} hat die {Befleckten} doch aus dem Tod zurück ins Leben geholt - wie kann das dann gegen die {GoldeneOrdnung} verstoßen?
-** 〰 Die {GoldeneOrdnung} ist die Ordnung der Dinge, die durch den intakten {Eldenring} gesichert ist - bspw. dass Tote tot bleiben. Diese Ordnung wurde mit der Zerstörung des {Eldenrings} gestört.
-
-[{sec-eldenring}]
-== Der Eldenring
-* Der {Eldenring} wurde zerbrochen und die Welt dadurch vom {HöherenWillen} getrennt.
-** ❗ Die Welt wird vom Eldenring mit dem {HöherenWillen} verbdunden, was auch immer das sein mag.
-* Aus den Sternen lässt sich das Schicksal nicht mehr lesen.
-** 〰 Der {HöhereWille} war so mächig in der Welt, dass er sich aus den Sternen interpretieren ließ.
-** 〰 Seit der Zerstörung des {Eldenrings} ist das nicht mehr möglich. _Oder_
-** 〰 Seit {Radahns} Krieg ist das nicht mehr möglich. Dieser hat bei seiner "Eroberung der Sterne" die Bahnen dieser so aus dem Gleichgewicht gebracht, das {Ranni} davon betroffen ist.{fn-sellen-über-radahn}
-* Der {Eldenring} ist aus Runen. Runen sind stets ein kulturelles Zeugnis und nichts "natürliches".
-** 〰 Der {Eldenring} repräsentiert _keine_ natürliche Ordnung, sondern die Herrschaft über die Ordnung der Welt.
-
-[{sec-erdenbaum}]
-== Der Erdenbaum
-* Tote gehen über die Wurzeln des {Erdenbaums} in die Welt der Toten.{fn-geist-vor-todberührte-katakomben}
-* Verwoben mit den Wurzeln des niederen {Erdenbaums} auf sind tatsächlich unzählige Tote.{fn-katakomben-des-gräberwalls}
-* Die {RuneDesTodes} breitete sich über die Wurzeln des großen Baumes im ganzen Zwischenland aus und wächst nun in Form der Todeswurzeln.{fn-todeswurzel}
+include::{document}/Die-Ordnung-Der-Welt.ad[]
