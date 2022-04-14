@@ -1,9 +1,12 @@
 // Wichtige Begriffe
+:adan: Adan
 :ahnenjünger: Ahnenjünger
-:albinaurics: Albinaurics
-:albinauric: Albinauric
+:albinaurics: link:{sec-albinaurics}[Albinaurics]
+:albinauric: link:{sec-albinaurics}[Albinauric]
+:arghanthy: Arghanthy
 :befleckte: Befleckte
 :befleckten: Befleckten
+:bestien: Bestien
 :caria: link:{sec-caria}[Caria]
 :dreifinger: link:{sec-drei-finger}[Drei Finger]
 :eldenfürst: Eldenfürst
@@ -12,12 +15,14 @@
 :erdenbaum: link:{sec-erdenbaum}[Erdenbaum]
 :erdenbaums: link:{sec-erdenbaum}[Erdenbaums]
 :feuermönche: Feuermönche
+:feuerriesen: Feuerriesen
 :fingerdiener: link:{sec-fingerdiener}[Fingerdiener]
 :fingerleserin: Fingerleserin
 :fingerjungfer: Fingerjungfer
 :fingerjungfern: Fingerjungfern
 :götterskalpe: Götterskalpe
 :halbmenschen: Halbmenschen
+:haligbaum: Haligbaum
 :höherewille: Höhere Wille
 :höherenwillen: Höheren Willen
 :höherenwillens: Höheren Willens
@@ -42,6 +47,8 @@
 :marikas: link:{sec-marika}[Marikas]
 :melina: link:{sec-melina}[Melina]
 :miriel: Miriel
+:miquella: Miquella
+:miquellas: Miquellas
 :radagon: Radagon
 :radahn: General Radahn
 :radahns: General Radahns
