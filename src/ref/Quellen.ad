@@ -10,6 +10,8 @@
 // (Externe) Medien
 :fn-opening: footnote:[{src-medien} link:{youtube}/{link-opening}[Opening]]
 :fn-trailer: footnote:[{src-medien} link:{youtube}/{link-trailer}[Trailer]]
+// TMP
+:fn-tbd: footnote:[TBD]
 // Dialoge
 :fn-corhyn-erstes-gesrpäch: footnote:[{src-dialog} {Corhyn}, {Tafelrundfeste}, erstes Gespräch]
 :fn-finger-über-marika: footnote:[{src-dialog} {ZweiFinger} über {Marika}, nach dem Erhalt der zweiten Rune]
@@ -21,10 +23,13 @@
 :fn-melina-an-der-pilgerkirche:  footnote:[{src-dialog} {Melina} an der Pilgerkirche, wörtlich nach {Marika}]
 :fn-melina-introsequenz: footnote:[{src-dialog} {Melina}, Introsequenz nach dem ersten Tod]
 :fn-melina-erstes-gespräch: footnote:[{src-dialog} {Melina}, erstes Gespräch]
+:fn-miriel-über-radagon: footnote:[{src-dialog} {Miriel}, über {Radagon}]
 :fn-miriel-über-rennala-1: footnote:[{src-dialog} {Miriel}, über {Rennala} (1)]
 :fn-miriel-über-rennala-2: footnote:[{src-dialog} {Miriel}, über {Rennala} (2)]
 :fn-ofnir-über-godrick: footnote:[{src-dialog} {GideonOfnir} über {Godrick}]
 :fn-ranni-im-kampf-mit-rennala: footnote:[{src-dialog} Rannis Abbild während des Kampfes gegen Rennala]
+:fn-ranni-vor-suche-nach-nokron: footnote:[{src-dialog} {Ranni}, vor dem Aufbruch nach Siofra auf der Suche nach Nokron mit Blaidd]
+:ranni-als-puppe-an-der-ainsel: footnote:[{src-dialog} {Ranni}, als Puppe an der Ainsel]
 :fn-rya-die-späherin: footnote:[{src-dialog} Rya die Späherin, nachdem man ihr das gestohlene Item zurückgibt]
 :fn-sellen-über-radahn: footnote:[{src-dialog} {Sellen} über {Radahn}]
 :fn-varre-rosenkirche: footnote:[{src-dialog} {Varre}, an der Rosenkirche]
@@ -41,6 +46,7 @@
 :fn-flamme-des-grausamen-gottes: footnote:[{src-item} Flamme des grausamen Gottes]
 :fn-flamme-heile-mich: footnote:[{src-item} Flamme, heile mich!]
 :fn-flammenschleuder: footnote:[{src-item} Flammenschleuder]
+:fn-fluchmal-des-todes: footnote:[{src-item} Fluchmal des Todes]
 :fn-gebetsbuch-der-götterskalpe: footnote:[{src-item} Gebetsbuch der {Götterskalpe}]
 :fn-geheimes-haligbaummedallion: footnote: [{src-item} Geheimes Haligbaummedallion (rechts)]
 :fn-gelbe-glut: footnote:[{src-item} Gelbe Glut]
