@@ -1,6 +1,8 @@
 // Wichtige Begriffe
 :adan: Adan
 :ahnenjünger: Ahnenjünger
+:alabasterfürsten: link:{sec-alabasterfuersten}[Alabasterfürsten]
+:alabasterfürst: link:{sec-alabasterfuersten}[Alabasterfürst]
 :albinaurics: link:{sec-albinaurics}[Albinaurics]
 :albinauric: link:{sec-albinaurics}[Albinauric]
 :arghanthy: Arghanthy
@@ -42,6 +44,7 @@
 :godfrey: Godfrey
 :godrick: Godrick
 :godwyn: Godwyn
+:jerren: Herald Jerren
 :latenna: Latenna
 :malenia: Malenia
 :marika: link:{sec-marika}[Marika]
@@ -52,8 +55,8 @@
 :miquellas: Miquellas
 :radagon: link:{sec-radagon}[Radagon]
 :radagons: link:{sec-radagon}[Radagons]
-:radahn: General Radahn
-:radahns: General Radahns
+:radahn: link:{sec-radahn}[General Radahn]
+:radahns: link:{sec-radahn}[General Radahns]
 :ranni: link:{sec-ranni}[Ranni]
 :rannis: link:{sec-ranni}[Rannis]
 :rennala: Rennala
