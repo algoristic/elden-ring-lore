@@ -1,11 +1,11 @@
 // Wichtige Begriffe
-:adan: Adan
-:ahnenjünger: Ahnenjünger
+:adan: link:{sec-flamme-des-ruins}[Adan]
+:ahnenjünger: link:{sec-ahnenjünger}[Ahnenjünger]
 :alabasterfürsten: link:{sec-alabasterfuersten}[Alabasterfürsten]
 :alabasterfürst: link:{sec-alabasterfuersten}[Alabasterfürst]
 :albinaurics: link:{sec-albinaurics}[Albinaurics]
 :albinauric: link:{sec-albinaurics}[Albinauric]
-:arghanthy: Arghanthy
+:arghanthy: link:{sec-flamme-des-ruins}[Arghanthy]
 :befleckte: Befleckte
 :befleckten: Befleckten
 :bestien: Bestien
@@ -16,14 +16,15 @@
 :eldenrings: link:{sec-eldenring}[Eldenrings]
 :erdenbaum: link:{sec-erdenbaum}[Erdenbaum]
 :erdenbaums: link:{sec-erdenbaum}[Erdenbaums]
-:feuermönche: Feuermönche
-:feuerriesen: Feuerriesen
+:feuermönche: link:{sec-flamme-des-ruins}[Feuermönche]
+:feuerriesen: link:{sec-flamme-des-ruins}[Feuerriesen]
 :fingerdiener: link:{sec-fingerdiener}[Fingerdiener]
-:fingerleserin: Fingerleserin
-:fingerjungfer: Fingerjungfer
-:fingerjungfern: Fingerjungfern
-:götterskalpe: Götterskalpe
-:halbmenschen: Halbmenschen
+:fingerleserin: link:{sec-fingerleserinnen}[Fingerleserin]
+:fingerjungfer: link:{sec-fingerjungfern}[Fingerjungfer]
+:fingerjungfern: link:{sec-fingerjungfern}[Fingerjungfern]
+:flammedesruins: link:{sec-flamme-des-ruins}[Flamme des Ruins]
+:götterskalpe: link:{sec-schwarze-flamme}[Götterskalpe]
+:halbmenschen: link:{sec-halbmenschen}[Halbmenschen]
 :haligbaum: Haligbaum
 :höherewille: Höhere Wille
 :höherenwillen: Höheren Willen
@@ -31,9 +32,11 @@
 :höheremwillen: Höherem Willen
 :goldeneordnung: link:{sec-goldene-ordnung}[Goldene Ordnung]
 :goldenerordnung: link:{sec-goldene-ordnung}[Goldener Ordnung]
-:nomaden: Nomaden
-:nox: Nox
-:rayalucaria: Akademie von Raya Lucaria
+:nomaden: link:{sec-nomaden}[Nomaden]
+:nokron: link:{sec-nox}[Nokron]
+:nokstella: link:{sec-nox}[Nokstella]
+:nox: link:{sec-nox}[Nox]
+:rayalucaria: link:{sec-raya-lucaria}[Akademie von Raya Lucaria]
 :tafelrundfeste: Tafelrundfeste
 :runedestodes: Rune des Todes
 :zertrümmerung: Zertrümmerung
@@ -42,12 +45,12 @@
 // Personen
 :corhyn: Corhyn
 :gideonofnir: Gideon Ofnir
-:godfrey: Godfrey
-:godfreys: Godfreys
-:godrick: Godrick
-:godricks: Godricks
-:godwyn: Godwyn
-:hoarah: Hoarah Loux
+:godfrey: link:{sec-godfrey}[Godfrey]
+:godfreys: link:{sec-godfrey}[Godfreys]
+:godrick: link:{sec-godrick}[Godrick]
+:godricks: link:{sec-godrick}[Godricks]
+:godwyn: link:{sec-godwyn}[Godwyn]
+:hoarah: link:{sec-hoarah-loux}[Hoarah Loux]
 :jerren: Herald Jerren
 :latenna: Latenna
 :malenia: Malenia
@@ -64,7 +67,7 @@
 :radahns: link:{sec-radahn}[General Radahns]
 :ranni: link:{sec-ranni}[Ranni]
 :rannis: link:{sec-ranni}[Rannis]
-:rennala: Rennala
+:rennala: link:{sec-caria}[Rennala]
 :sellen: Zauberin Sellen
 :serosh: Serosh
 :varre: Weißgesichtiger Varré
