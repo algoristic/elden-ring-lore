@@ -31,3 +31,6 @@ ul>li>.ulist li {
 ul>li>.ulist li:first-child {
     margin-top: .25rem;
 }
+#toc li {
+    margin-bottom: inherit;
+}
