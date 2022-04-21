@@ -19,7 +19,7 @@ a {
 ul {
     list-style-type: none;
 }
-ul, ol {
+ul {
     margin-left: 0;
 }
 ul>li, ol>li {
