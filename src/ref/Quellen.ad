@@ -37,6 +37,7 @@
 :ranni-als-puppe-an-der-ainsel: footnote:[{src-dialog} {Ranni}, als Puppe an der Ainsel]
 :fn-rya-die-späherin: footnote:[{src-dialog} Rya die Späherin, nachdem man ihr das gestohlene Item zurückgibt]
 :fn-sellen-über-radahn: footnote:[{src-dialog} {Sellen} über {Radahn}]
+:fn-tanith-begrüßung: footnote:[{src-dialog} {Tanith} bei ihrer Begrüßung]
 :fn-varre-rosenkirche: footnote:[{src-dialog} {Varre}, an der Rosenkirche]
 // Items
 :fn-aeonischer-schmetterling: footnote:[{src-item} Aeonischer Schmetterling]
@@ -82,6 +83,7 @@
 :fn-kristallschert: footnote:[{src-item} Kristallschert]
 :fn-lazuli-schimmersteinschwert: footnote:[{src-item} Lazuli-Schimmersteinschwert]
 :fn-marionettensoldaten-helm: footnote:[{src-item} Marionettensoldaten-Helm]
+:fn-medallion-des-brüllens: footnote:[{src-item} Medallion des Brüllens]
 :fn-noxspiegelhelm: footnote:[{src-item} Noxspiegelhelm]
 :fn-numen-rune: footnote:[{src-item} Numen-Rune]
 :fn-ornamentales-schwert: footnote:[{src-item} Ornamentales Schwert]
@@ -109,5 +111,6 @@
 :fn-katakomben-des-gräberwalls: footnote:[{src-ort} Katakomben des Gräberwalls]
 :fn-keller-haus-vulkan: footnote:[{src-ort} Keller des Hauses Vulkan]
 :fn-kristalltunnel-von-raya-lucaria: footnote:[{src-ort} Kristalltunnel von Raya Lucaria]
+:fn-haus-vulkan-eingang: footnote:[{src-ort} Eingang von Haus Vulkan]
 :fn-heiliger-turm-limgrave: footnote:[{src-ort} Heiliger Turm, Limgrave]
 :fn-morne: footnote:[{src-ort} Morne, Halbinsel der Tränen]

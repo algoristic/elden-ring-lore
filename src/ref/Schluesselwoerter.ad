@@ -11,6 +11,7 @@
 :bestien: Bestien
 :caria: link:{sec-caria}[Caria]
 :dreifinger: link:{sec-drei-finger}[Drei Finger]
+:dreifingern: link:{sec-drei-finger}[Drei Fingern]
 :eldenfürst: Eldenfürst
 :eldenring: link:{sec-eldenring}[Eldenring]
 :eldenrings: link:{sec-eldenring}[Eldenrings]
@@ -37,8 +38,10 @@
 :nokstella: link:{sec-nox}[Nokstella]
 :nox: link:{sec-nox}[Nox]
 :rayalucaria: link:{sec-raya-lucaria}[Akademie von Raya Lucaria]
+:riesen: link:{sec-riesen}[Riesen]
 :tafelrundfeste: Tafelrundfeste
 :runedestodes: Rune des Todes
+:vulkan: link:{sec-vulkan}[Vulkan]
 :zertrümmerung: Zertrümmerung
 :zweifinger: link:{sec-zwei-finger}[Zwei Finger]
 :zweifingern: link:{sec-zwei-finger}[Zwei Fingern]
@@ -70,4 +73,5 @@
 :rennala: link:{sec-caria}[Rennala]
 :sellen: Zauberin Sellen
 :serosh: Serosh
+:tanith: Tanith
 :varre: Weißgesichtiger Varré

@@ -13,7 +13,7 @@
 
 [{sec-flamme-des-ruins}]
 ===== Die Feuermönche bzw. die Anhänger der Flamme des Ruins
-* "Die {FlammeDesRuins} ist der Feind des {Erdenbaums}, sie befindet sich angeblich auf den Berggipfeln der Riesen."{fn-feuermönchstulpen}
+* "Die {FlammeDesRuins} ist der Feind des {Erdenbaums}, sie befindet sich angeblich auf den Berggipfeln der {Riesen}."{fn-feuermönchstulpen}
 * Die Feuermönche ehren und fürchten die {FlammeDesRuins}.{fn-flamme-heile-mich}
 * Manche Propheten sehen in der {FlammeDesRuins} ein Zeichen des Glaubens des {Erdenbaums}. Diese Propheten werden verbannt.{fn-flammenschleuder}
 ** {korrolar} Es gibt einen Glauben (bzw. eine Kirche) des {Erdenbaums}, denn eine Kirche definiert ihre Propheten, ansonsten wäre hier ein anderes Wort verwendet worden.
@@ -26,7 +26,7 @@
 * Feuerblüten sind Blumen, die dank der Funken aus der Schmiede des Gipfels wachsen, in der die {FlammeDesRuins} lodert.{fn-feuerblüte}
 ** {frage} Die Flamme ist auf einem Gipfel zu finden - wo soll das sein? Ich habe noch keine echten Berge gesehen...
 ** {hypothese} Trotz ihres Namens kann die {FlammeDesRuins} nicht nur zerstörerisch sein - sonst wäre sie nicht der Grund dafür, dass diese Blumen wachsen. Die Idee der {FlammeDesRuins} und des {Erdenbaums} als Einheit würde gut zu diesem Bild passen.
-* Die {FlammeDesRuins} bzw. die Flamme der Riesen wurde nach dem Krieg gegen die Riesen versiegelt und gut gehütet. Der Grund dafür ist, dass sie sogar den {Erdenbaum} verbrennen kann.{fn-woge-oh-flamme}
+* Die {FlammeDesRuins} bzw. die Flamme der {Riesen} wurde nach dem Krieg gegen die {Riesen} versiegelt und gut gehütet. Der Grund dafür ist, dass sie sogar den {Erdenbaum} verbrennen kann.{fn-woge-oh-flamme}
 ** {frage} Sind die Feuermönche die (ehemaligen) Hüter der Flamme (vgl. {Arghanthy})? Oder sind sie Anhänger von {Adan}, der die Flamme gestohlen hat (s. o.)?
 
 [{sec-nox}]
@@ -57,3 +57,12 @@
 ** {korrolar} Wie auch die {FlammeDesRuins}, kann die Göttin der Fäulnis, trotz ihres Namens, nicht nur Verderbnis bringen.
 * {Radahn} sollte in Caelid die Ausbreitung der Schlarlachfäule bekämpfen.{fn-ofnir-über-radahn}
 ** {hypothese} Im Trailer sehen wir, dass {Radahn} gegen {Malenia} kämpft, ohne dass ein Sieger entschieden wird.{fn-trailer} {Malenia} ist die Göttin der Fäulnis.
+
+[{sec-vulkan}]
+===== Haus Vulkan
+* Rya die Späherin sucht nach starken Kriegern, die in den Dienst des Hauses {Vulkan} treten wollen.{fn-rya-die-späherin}
+* Nach man von einer Maschine unter der {RayaLucaria} getötet wird, wacht man im Keller des Hauses {Vulkan} auf.{fn-keller-haus-vulkan}
+* Auf Haus {Vulkan} wurden Adlige gefoltert.{fn-girandole-des-inquisitors}
+** {hypothese} Siehe Fußnote, es scheint ein religiöser Bezug zu bestehen, da Inquisitoren Diener der Kirche sind.
+* Vor Haus {Vulkan} steht ein Troll, der die Rasende Flamme im Kampf gegen uns einsetzt.{fn-haus-vulkan-eingang} (Vgl. {DreFinger})
+* Haus {Vulkan} und seine Diener machen Jagd auf Befleckte.{fn-tanith-begrüßung} (Vgl. {DreFinger})
