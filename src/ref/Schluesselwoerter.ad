@@ -41,6 +41,7 @@
 :riesen: link:{sec-riesen}[Riesen]
 :tafelrundfeste: Tafelrundfeste
 :runedestodes: Rune des Todes
+:scharlachfäule: link:{sec-malenia}[Scharlachfäule]
 :schwarzeflamme: link:{sec-schwarze-flamme}[Schwarze Flamme]
 :schwarzenflamme: link:{sec-schwarze-flamme}[Schwarzen Flamme]
 :vulkan: link:{sec-vulkan}[Vulkan]
@@ -58,7 +59,8 @@
 :hoarah: link:{sec-hoarah-loux}[Hoarah Loux]
 :jerren: Herald Jerren
 :latenna: Latenna
-:malenia: Malenia
+:maleigh: Maleigh Marais
+:malenia: link:{sec-malenia}[Malenia]
 :maliketh: Maliketh
 :marika: link:{sec-marika}[Marika]
 :marikas: link:{sec-marika}[Marikas]
@@ -76,5 +78,5 @@
 :rennala: link:{sec-caria}[Rennala]
 :sellen: Zauberin Sellen
 :serosh: Serosh
-:tanith: Tanith
+:tanith: link:{sec-vulkan}[Tanith]
 :varre: Weißgesichtiger Varré
