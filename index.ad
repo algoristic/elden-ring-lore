@@ -3,7 +3,7 @@
 :document: {src}/doc
 
 // Autor und Titel
-= ELDEN RING
+= link:https://algoristic.de/elden-ring[ELDEN RING]
 
 Marco Herzig
 include::{referenzen}/Inhaltsverzeichnis.ad[]
