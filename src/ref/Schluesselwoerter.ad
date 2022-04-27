@@ -10,6 +10,8 @@
 :befleckten: Befleckten
 :bestien: Bestien
 :caria: link:{sec-caria}[Caria]
+:drache: link:{sec-drachen}[Drache]
+:drachen: link:{sec-drachen}[Drachen]
 :dreifinger: link:{sec-drei-finger}[Drei Finger]
 :dreifingern: link:{sec-drei-finger}[Drei Fingern]
 :eldenfürst: Eldenfürst
@@ -34,6 +36,7 @@
 :höheremwillen: Höherem Willen
 :goldeneordnung: link:{sec-goldene-ordnung}[Goldene Ordnung]
 :goldenerordnung: link:{sec-goldene-ordnung}[Goldener Ordnung]
+:goldenenordnung: link:{sec-goldene-ordnung}[Goldenen Ordnung]
 :nomaden: link:{sec-nomaden}[Nomaden]
 :nokron: link:{sec-nox}[Nokron]
 :nokstella: link:{sec-nox}[Nokstella]
@@ -43,6 +46,8 @@
 :tafelrundfeste: Tafelrundfeste
 :runedestodes: Rune des Todes
 :scharlachfäule: link:{sec-malenia}[Scharlachfäule]
+:schmelztiegel: link:{sec-schmelztiegel}[Schmelztiegel]
+:schmelztiegels: link:{sec-schmelztiegel}[Schmelztiegels]
 :schwarzeflamme: link:{sec-schwarze-flamme}[Schwarze Flamme]
 :schwarzenflamme: link:{sec-schwarze-flamme}[Schwarzen Flamme]
 :vulkan: link:{sec-vulkan}[Vulkan]
@@ -52,6 +57,8 @@
 // Personen
 :bernahl: Bernahl
 :corhyn: Corhyn
+:fürstdesblutes: link:{sec-fürst-des-blutes}[Fürst des Blutes]
+:fürstendesblutes: link:{sec-fürst-des-blutes}[Fürsten des Blutes]
 :gideonofnir: Gideon Ofnir
 :godfrey: link:{sec-godfrey}[Godfrey]
 :godfreys: link:{sec-godfrey}[Godfreys]
@@ -68,8 +75,9 @@
 :marikas: link:{sec-marika}[Marikas]
 :melina: link:{sec-melina}[Melina]
 :miriel: Miriel
-:miquella: Miquella
-:miquellas: Miquellas
+:miquella: link:{sec-miquella}[Miquella]
+:miquellas: link:{sec-miquella}[Miquellas]
+:morgott: link:{sec-morgott}[Morgott]
 :nepheli: Nepheli Loux
 :radagon: link:{sec-radagon}[Radagon]
 :radagons: link:{sec-radagon}[Radagons]
