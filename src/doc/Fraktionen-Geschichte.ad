@@ -1,72 +1,13 @@
 ==== Relevant für Geschichte
 
-[{sec-schwarze-flamme}]
-===== Die Götterskalpe bzw. die Anhänger der Schwarzen Flamme
-* "[...] Apostel der {Götterskalpe} [...] Beherrschung der schwarzen Flamme [...] verstärkt Anrufunden der Gottestöter."{fn-siegel-des-gottestöters}
-* "[...] enthält Anrufungen der göttertötenden schwarzen Flamme."{fn-gebetsbuch-der-götterskalpe}
-* Die Apostel der {Götterskalpe} dienten einst angeblich dem Schicksalstod. Sie führen die göttertötende Schwarze Flamme. Nach ihrer Niederlage gegen {Maliketh} die Schwarze Klinge wurde die Quelle ihrer Macht versiegelt.{fn-kapuze-der-apostel-der-götterskalpe}
-** {korrolar} Sie wurden Maliketh besiegt, wer oder was auch immer das ist.
-** {frage} Was ist mit dem Schicksalstod gemeint? Einfach der normale Tod, der für jedes lebende Wesen bestimmt ist, der aber durch den Diebstahl der {RuneDesTodes} außer Kraft gesetzt wurde?
-* Vor ihrer Niederlage gegen Maliketh herrschte die Finsteräugige Königin über die Apostel der Götterskalpe. Die Schwarzen Flammen der Apostel stammen aus ihrem Schwert.{fn-großschwert-der-gottestöterin}
-** {korrolar} Dieses Schwer war die Quelle der Macht der Schwarzen Flamme (s. o.).
+include::Schwarze-Flamme.ad[]
 
-[{sec-flamme-des-ruins}]
-===== Die Feuermönche bzw. die Anhänger der Flamme des Ruins
-* "Die {FlammeDesRuins} ist der Feind des {Erdenbaums}, sie befindet sich angeblich auf den Berggipfeln der {Riesen}."{fn-feuermönchstulpen}
-* Die Feuermönche ehren und fürchten die {FlammeDesRuins}.{fn-flamme-heile-mich}
-* Manche Propheten sehen in der {FlammeDesRuins} ein Zeichen des Glaubens des {Erdenbaums}. Diese Propheten werden verbannt.{fn-flammenschleuder}
-** {korrolar} Es gibt einen Glauben (bzw. eine Kirche) des {Erdenbaums}, denn eine Kirche definiert ihre Propheten, ansonsten wäre hier ein anderes Wort verwendet worden.
-** {hypothese} Baum und Flamme verhalten sich (als Leben und Auslöscher) zueinander, wie Gott und Teufel. Verständlicherweise werden jene, die Gott und Teufel nicht als Gegner, sondern als Teile derselben Einheit verstehen, von den Strenggläubigen nicht anerkannt. Das würde die {FlammeDesRuins} zu einem essentiellen Teil des Gesamtkonzeptes der Welt von Elden Ring machen.
-* "Dank {Arghanthy}, dem obersten Wächter des Feuers, war die [Flamme des grausamen Gottes] lange ein gut gehütetes Geheimnis, doch dann wurde sie von {Adan} gestohlen. Der grausame Gott lauert noch immer in den {Feuerriesen}."{fn-flamme-des-grausamen-gottes}
-** {korrolar} Es gibt mehrere Götter, nicht nur {Marika}.
-** {hypothese} {Arghanthy} ist, also oberster Wächter des Feuers, der Anführer der {Feuermönche}.
-* Eine Anrufung, die den Zaubernden nicht verbrennt ist den Hütern der Flamme verboten.{fn-flamme-gib-mir-kraft}
-** {korrolar} Eine wichtiger Aspekt bei der Nutzung des Feuers scheint der Aspekt der (Selbst-) Zerstörung, bzw. vielleicht sogar der Geißelung zu sein.
-* Feuerblüten sind Blumen, die dank der Funken aus der Schmiede des Gipfels wachsen, in der die {FlammeDesRuins} lodert.{fn-feuerblüte}
-** {frage} Die Flamme ist auf einem Gipfel zu finden - wo soll das sein? Ich habe noch keine echten Berge gesehen...
-** {hypothese} Trotz ihres Namens kann die {FlammeDesRuins} nicht nur zerstörerisch sein - sonst wäre sie nicht der Grund dafür, dass diese Blumen wachsen. Die Idee der {FlammeDesRuins} und des {Erdenbaums} als Einheit würde gut zu diesem Bild passen.
-* Die {FlammeDesRuins} bzw. die Flamme der {Riesen} wurde nach dem Krieg gegen die {Riesen} versiegelt und gut gehütet. Der Grund dafür ist, dass sie sogar den {Erdenbaum} verbrennen kann.{fn-woge-oh-flamme}
-** {frage} Sind die Feuermönche die (ehemaligen) Hüter der Flamme (vgl. {Arghanthy})? Oder sind sie Anhänger von {Adan}, der die Flamme gestohlen hat (s. o.)?
+include::Flamme-des-Ruins.ad[]
 
-[{sec-nox}]
-===== Die Nox in Nokron und Nokstella bzw. die Ewige Stadt
-* Vor langer Zeit erregten die {Nox} den Zorn des {HöherenWillens} und wurden tief unter die Erde verbannt. Jetzt leben sie unter einem falschen Nachthimmel und warten seit einer Ewigkeit auf das kommende Zeitalter der Sterne und auf ihren Fürsten der Nacht.{fn-schwertmaidkrone-der-nox}
-* Die Fingertöterklinge beweißt den Hochverrat der Ewigen Stadt und symbolisiert gleichzeitig ihren Untergang.{fn-fingertöterklinge}
-** {hypothese} Der Name dieses Gegenstandes kommt vermutlich nicht von ungefähr - ich denke die {Nox} haben sich gegen die {ZweiFinger} aufgelehnt.
-* Der Gegenstand "Ewige Finsternis" -ein Zauber- ist eine Manifestation der _Verzweiflung_, die den Untergang der Ewigen Stadt besiegelte.{fn-ewige-finsternis}
-** {frage} Wir wissen, dass die {Nox} wegen Hochverrats gegen die ZweiFinger verbannt wurden - welche Verzweiflung trieb sie dazu?
-* Die Ewige Stadt wollte einen König erschaffen. (In einer Reihe von diesen Versuchen entstanden die Imitatortränen.){fn-imitatortränenasche}
-** {frage} Warum wollten sie einen König _erschaffen_? War dies ein Versuch den Fürsten der Nacht (s. o.) zu ersetzen?
-* Die Schwertmaiden sind die Leibwache der Nachtjungfern.{fn-schwertmaidkrone-der-nox}
-** {hypothese} "[...] und die Seide verbirgt ihre Augen." bedeutet, dass die Nachtjungfern aus irgendeinem Grund nicht mit dem bloßen Auge angeschaut werden dürfen.{fn-schwertmaidkrone-der-nox}
-* Die Falkensturzritter wurden entsandt, um die Ewige Stadt zu erkunden (Gefunden in Siofra, gemeint ist also {Nokron}).{fn-falkensturz-dreieckschild}
-** {frage} Von wo wurden sie entsandt?
-* Astel, Ausgeburt des Abgrunds, war ein missgebildeter Stern, der weit entfernt in der lichtlosen Leere geboren wurde. Er zerstörte einst eine Ewige Stadt und raubte ihr den Himmel.{fn-echo-der-ausgeburt}
-** {frage} Wurde dadurch ein Teil von {Nokron} oder {Nokstella} zerstört, oder gibt es noch andere Ewige Städte der Nox?
-** {frage} Ist dies ein Hinweis auf -ählich zu H. P. Lovecraft- äußere Götter? Also unvorstellbar mächtige Wesen aus der Tiefe des Weltraums?
+include::Marliketh.ad[]
 
-[{sec-vulkan}]
-===== Haus Vulkan
-* Rya die Späherin sucht nach starken Kriegern, die in den Dienst des Hauses {Vulkan} treten wollen.{fn-rya-die-späherin}
-* Nach man von einer Maschine unter der {RayaLucaria} getötet wird, wacht man im Keller des Hauses {Vulkan} auf.{fn-keller-haus-vulkan}
-* Auf Haus {Vulkan} wurden Adlige gefoltert.{fn-girandole-des-inquisitors}
-** {hypothese} Siehe Fußnote, es scheint ein religiöser Bezug zu bestehen, da Inquisitoren Diener der Kirche sind.
-* Vor Haus {Vulkan} steht ein Troll, der die Rasende Flamme im Kampf gegen uns einsetzt.{fn-haus-vulkan-eingang}
-** {hypothese} Haus {Vulkan} hat eine enge Verbindung zu den {DreiFingern}.
-* Haus {Vulkan} und seine Diener machen Jagd auf Befleckte.{fn-tanith-begrüßung} (Vgl. {DreiFinger})
-* Die Diener des Hauses {Vulkan} werden auch Rekusanten genannt. Indem sie Jagd auf die {Befleckten} machen lehnen sie sich gegen den Willen des {Erdenbaums} auf und gehen damit den Weg wahrer Tapferkeit. Bernahl spricht von dem Streit der Befleckte darüber, wer die Macht in den Zwischenlanden ergreift, als "scheinheilige Plünderung".{fn-bernahl-1} Unter Lord {Rykard} haben sich die Rekusanten zusammengetan um das Spiel des {Erdenbaums} nicht mehr mitzuspielen.{fn-lady-tanith-1}
+include::Nox.ad[]
 
-[{sec-drachen}]
-===== Drachen
-* In der Ära vor dem {Erdenbaum} regierten die {Drachen}.{fn-blitzdrachentalisman} Die {Drachen} waren unsterblich, doch verloren sie im Laufe der Zeitalter ihre steinernen Schuppen und damit auch diese Gabe.{fn-drachenwundenfett}
-* Die steinernen Schuppen, die die {Drachen} verloren, sind vermutlich der Schotterstein, der überall im Zwischenland zu finden ist.{fn-schottersteinsiegel}
-* In der königlichen Hauptstadt Leyndell gibt es einen Drachenkult. Dieser steht allerdings nicht im Konflikt mit dem Glauben an den Erdenbaum, da das Siegel und die Magie der Blitze beide von Gold erfüllt sind.{fn-schottersteinsiegel}
-** {korrolar} Gold, das auch an anderen Stellen ein wichtiges Thema ist (siehe {Eldenring}), steht im Zentrum des Glaubens.
-** {korrolar} Die Magie der {Drachen} ist die Blitzmagie. Das passt auch dazu, dass nur jene, die vom {Drachen} geliebt werden, das Hüllen des Körpers in Blitze überleben können.{fn-segen-des-drachenblitzes}
-** {hypothese} Nicht der Glaube an jeden {Drachen} ist mit dem Glauben an den Erdenbaum vereinbar: Kirche und Kathedrale der Drachenkommunion sind beide fürchterlich zerstört und das augenscheinlich auch schon sehr lange.{fn-kirche-der-drachenkommunion}{fn-kathedrale-der-drachenkommunion}
-* Wir haben bisher allerlei {Drachen} getroffen, aber keinen einzigen, der Blitze verwandt hätte.
-** {korrolar} Wenn die Magie der {Drachen}, die in der Hauptstadt verehrt werden, Blitze sind, dann muss es noch andere Arten von (niederen?) {Drachen} geben.
-* Es gibt einen uralten Drachenfürsten der jenseits der Zeit residiert.{fn-uralter-drachenschmiedestein}
-** {frage} Wir haben bis jetzt den {Eldenfürsten}, den {FürstenDesBlutes} und einen Drachenfürsten. Hat das etwas zu sagen?
-** {frage} Hat der Drachenfürst, der auch jenseits der Zeit residiert, etwas mit den {ZweiFingern} und der {Tafelrundfeste} zu tun?
-* Waffen, die mit den Schuppen des Drachenfürsten verstärkt wurden, bringen sogar Göttern den Tod.{fn-uralter-drachenschmiedestein}
+include::Haus-Vulkan.ad[]
+
+include::Drachen.ad[]

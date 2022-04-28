@@ -10,6 +10,7 @@
 :sec-fingerdiener: #fingerdiener
 :sec-fingerjungfern: Fingerjungfern
 :sec-fingerleserinnen: #fingerleserinnen
+:sec-fundamentalisten: #fundamentalisten
 :sec-fürst-des-blutes: #fuerst-des-blutes
 :sec-godfrey: #godfrey
 :sec-godrick: #godrick
@@ -18,7 +19,9 @@
 :sec-halbmenschen: #halbmenschen
 :sec-halbgötter: #halbgoetter
 :sec-hoarah-loux: #hoarah-loux
+:sec-male: #male
 :sec-malenia: #malenia
+:sec-maliketh: #maliketh
 :sec-marika: #marika
 :sec-melina: #melina
 :sec-miquella: #miquella
@@ -33,5 +36,6 @@
 :sec-rykard: #rykard
 :sec-schmelztiegel: #schmelztiegel
 :sec-schwarze-flamme: #schwarze-flamme
+:sec-tafelrundfeste: #tafelrundfeste
 :sec-vulkan: #vulkan
 :sec-zwei-finger: #zwei-finger

@@ -27,9 +27,10 @@
 :fingerjungfer: link:{sec-fingerjungfern}[Fingerjungfer]
 :fingerjungfern: link:{sec-fingerjungfern}[Fingerjungfern]
 :flammedesruins: link:{sec-flamme-des-ruins}[Flamme des Ruins]
+:fundamentalisten: link:{sec-fundamentalisten}[Fundamentalisten]
 :götterskalpe: link:{sec-schwarze-flamme}[Götterskalpe]
 :halbmenschen: link:{sec-halbmenschen}[Halbmenschen]
-:haligbaum: Haligbaum
+:haligbaum: link:{sec-miquella}[Haligbaum]
 :höherewille: Höhere Wille
 :höherenwillen: Höheren Willen
 :höherenwillens: Höheren Willens
@@ -37,19 +38,23 @@
 :goldeneordnung: link:{sec-goldene-ordnung}[Goldene Ordnung]
 :goldenerordnung: link:{sec-goldene-ordnung}[Goldener Ordnung]
 :goldenenordnung: link:{sec-goldene-ordnung}[Goldenen Ordnung]
+:mal: link:{sec-male}[Mal]
+:male: link:{sec-male}[Male]
+:malbabys: link:{sec-male}[Malbabys]
 :nomaden: link:{sec-nomaden}[Nomaden]
 :nokron: link:{sec-nox}[Nokron]
 :nokstella: link:{sec-nox}[Nokstella]
 :nox: link:{sec-nox}[Nox]
 :rayalucaria: link:{sec-raya-lucaria}[Akademie von Raya Lucaria]
 :riesen: link:{sec-riesen}[Riesen]
-:tafelrundfeste: Tafelrundfeste
+:tafelrundfeste: link:{sec-tafelrundfeste}[Tafelrundfeste]
 :runedestodes: Rune des Todes
 :scharlachfäule: link:{sec-malenia}[Scharlachfäule]
 :schmelztiegel: link:{sec-schmelztiegel}[Schmelztiegel]
 :schmelztiegels: link:{sec-schmelztiegel}[Schmelztiegels]
 :schwarzeflamme: link:{sec-schwarze-flamme}[Schwarze Flamme]
 :schwarzenflamme: link:{sec-schwarze-flamme}[Schwarzen Flamme]
+:schwarzenklingen: link:{sec-maliketh}[Schwarzen Klingen]
 :vulkan: link:{sec-vulkan}[Vulkan]
 :zertrümmerung: Zertrümmerung
 :zweifinger: link:{sec-zwei-finger}[Zwei Finger]
@@ -60,16 +65,19 @@
 :fürstdesblutes: link:{sec-fürst-des-blutes}[Fürst des Blutes]
 :fürstendesblutes: link:{sec-fürst-des-blutes}[Fürsten des Blutes]
 :gideonofnir: Gideon Ofnir
+:godefroy: link:{sec-godfrey}[Godefroy]
 :godfrey: link:{sec-godfrey}[Godfrey]
 :godfreys: link:{sec-godfrey}[Godfreys]
 :godrick: link:{sec-godrick}[Godrick]
 :godricks: link:{sec-godrick}[Godricks]
 :godwyn: link:{sec-godwyn}[Godwyn]
+:gransax: link:{sec-drachen}[Gransax]
 :hoarah: link:{sec-hoarah-loux}[Hoarah Loux]
 :jerren: Herald Jerren
 :latenna: Latenna
 :maleigh: Maleigh Marais
 :malenia: link:{sec-malenia}[Malenia]
+:malenias: link:{sec-malenia}[Malenias]
 :maliketh: Maliketh
 :marika: link:{sec-marika}[Marika]
 :marikas: link:{sec-marika}[Marikas]
@@ -78,6 +86,7 @@
 :miquella: link:{sec-miquella}[Miquella]
 :miquellas: link:{sec-miquella}[Miquellas]
 :morgott: link:{sec-morgott}[Morgott]
+:morgotts: link:{sec-morgott}[Morgotts]
 :nepheli: Nepheli Loux
 :radagon: link:{sec-radagon}[Radagon]
 :radagons: link:{sec-radagon}[Radagons]
