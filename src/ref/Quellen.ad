@@ -118,6 +118,7 @@
 :fn-goldenes-trollschwert: footnote:[{src-item} Goldenes Trollschwert]
 :fn-golemgrpßbogen: footnote:[{src-item} Golemgrpßbogen]
 :fn-gravitationsfeld: footnote:[{src-item} Gravitationsfeld]
+:fn-greyolls-brüllen: footnote:[{src-item} Greyolls Brüllen]
 :fn-großschwert-der-gottestöterin: footnote:[{src-item} Großschwert der Gottestöterin]
 :fn-großsterne: footnote:[{src-item} Großsterne]
 :fn-hut-der-schneehexe: footnote:[{src-item} Hut der Schneehexe]
@@ -177,10 +178,14 @@
 :fn-verschlüsseltes-pata: footnote:[{src-item} Verschlüsseltes Pata]
 :fn-wirbel-oh-flamme: footnote:[{src-item} Wirbel, oh Flamme!]
 :fn-woge-oh-flamme: footnote:[{src-item} Woge, oh Flamme!]
+:fn-zamor-maske: footnote:[{src-item} {Zamor}-Maske]
+:fn-zamorkrummschwert: footnote:[{src-item} Zamorkrummschwert]
 // Orte
 :fn-aechtung-der-rasenden-flamme: footnote:[{src-ort} Ächtung der {RasendenFlamme}]
 :fn-brunnen-an-der-ainsel: footnote:[{src-ort} Brunnen an der Ainsel]
 :fn-forum-der-debatte: footnote:[{src-ort} Forum der Debatte]
+:fn-grab-des-heroischen-riesentöters: footnote:[{src-ort} Grab des heroischen Riesentöters]
+:fn-grabstein-grab-des-heroischen-riesentöters: footnote:[{src-ort} Grabstein beim Grab des heroischen Riesentöters]
 :fn-katakomben-des-gräberwalls: footnote:[{src-ort} Katakomben des Gräberwalls]
 :fn-keller-haus-vulkan: footnote:[{src-ort} Keller des Hauses Vulkan]
 :fn-kristalltunnel-von-raya-lucaria: footnote:[{src-ort} Kristalltunnel von {RayaLucaria}]
@@ -195,5 +200,3 @@
 :fn-morne: footnote:[{src-ort} Morne, Halbinsel der Tränen]
 :fn-siofra: footnote:[{src-ort} Ruinen an der Siofra]
 :fn-tafelrundfeste: footnote:[{src-ort} Tafelrundfeste]
-
-:fn-grabstein-grab-des-heroischen-riesentöters: footnote:[{src-ort} Grabstein beim Grab des heroischen Riesentöters]
