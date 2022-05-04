@@ -37,6 +37,7 @@
 :fn-melina-nach-versengen: footnote:[{src-dialog} {Melina} nachdem wir versengt wurden]
 :fn-melina-nach-morgott: footnote:[{src-dialog} {Melina} nach Kampf gegen {Morgott}]
 :fn-melina-nach-morgott-fingerleserin: footnote:[{src-dialog} {Melina} nachdem wir nach dem Kampf gegen {Morgott} mit der {Fingerleserin} gesprochen haben]
+:fn-millicent-ruinen-des-urschneetals: footnote:[{src-dialog} Millicent, Ruinen des Urschneetals]
 :fn-miriel-über-radagon: footnote:[{src-dialog} {Miriel}, über {Radagon}]
 :fn-miriel-über-rennala-1: footnote:[{src-dialog} {Miriel}, über {Rennala} (1)]
 :fn-miriel-über-rennala-2: footnote:[{src-dialog} {Miriel}, über {Rennala} (2)]
@@ -188,6 +189,7 @@
 // Orte
 :fn-aechtung-der-rasenden-flamme: footnote:[{src-ort} Ächtung der {RasendenFlamme}]
 :fn-brunnen-an-der-ainsel: footnote:[{src-ort} Brunnen an der Ainsel]
+:fn-feuerriese: footnote:[{src-ort} Feuerriese]
 :fn-forum-der-debatte: footnote:[{src-ort} Forum der Debatte]
 :fn-grab-des-heroischen-riesentöters: footnote:[{src-ort} Grab des heroischen Riesentöters]
 :fn-grabstein-grab-des-heroischen-riesentöters: footnote:[{src-ort} Grabstein beim Grab des heroischen Riesentöters]
@@ -203,5 +205,7 @@
 :fn-leyndell-radagons-statue: footnote:[{src-ort} Leyndell, Radagons Statue]
 :fn-leyndell-befestigtes-anwesen: footnote:[{src-ort} Leyndell, Befestigtes Anwesen]
 :fn-morne: footnote:[{src-ort} Morne, Halbinsel der Tränen]
+:fn-schattenburg: footnote:[{src-ort} Schattenburg]
+:fn-schmiede-der-riesen: footnote:[{src-ort} Schmiede der Riesen]
 :fn-siofra: footnote:[{src-ort} Ruinen an der Siofra]
 :fn-tafelrundfeste: footnote:[{src-ort} Tafelrundfeste]
