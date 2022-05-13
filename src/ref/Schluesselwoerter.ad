@@ -11,6 +11,7 @@
 :befleckter: Befleckter
 :bestien: Bestien
 :caria: link:{sec-caria}[Caria]
+:carias: link:{sec-caria}[Carias]
 :drache: link:{sec-drachen}[Drache]
 :drachen: link:{sec-drachen}[Drachen]
 :dreifinger: link:{sec-drei-finger}[Drei Finger]
@@ -34,6 +35,7 @@
 :götterskalpe: link:{sec-schwarze-flamme}[Götterskalpe]
 :halbmenschen: link:{sec-halbmenschen}[Halbmenschen]
 :haligbaum: link:{sec-miquella}[Haligbaum]
+:haligbaums: link:{sec-miquella}[Haligbaums]
 :höherewille: Höhere Wille
 :höherenwillen: Höheren Willen
 :höherenwillens: Höheren Willens
@@ -71,8 +73,8 @@
 // Personen
 :bernahl: Bernahl
 :corhyn: Corhyn
-:fürstdesblutes: link:{sec-fürst-des-blutes}[Fürst des Blutes]
-:fürstendesblutes: link:{sec-fürst-des-blutes}[Fürsten des Blutes]
+:fürstdesblutes: link:{sec-mohg}[Fürst des Blutes]
+:fürstendesblutes: link:{sec-mohg}[Fürsten des Blutes]
 :gideonofnir: Gideon Ofnir
 :godefroy: link:{sec-godfrey}[Godefroy]
 :godfrey: link:{sec-godfrey}[Godfrey]
@@ -96,6 +98,7 @@
 :miquella: link:{sec-miquella}[Miquella]
 :miquellas: link:{sec-miquella}[Miquellas]
 :mohg: link:{sec-mohg}[Mohg]
+:mohgs: link:{sec-mohg}[Mohgs]
 :morgott: link:{sec-morgott}[Morgott]
 :morgotts: link:{sec-morgott}[Morgotts]
 :nepheli: Nepheli Loux
